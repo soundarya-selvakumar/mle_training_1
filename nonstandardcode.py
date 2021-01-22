@@ -1,4 +1,3 @@
-#edited in visual studio
 import os
 import tarfile
 
